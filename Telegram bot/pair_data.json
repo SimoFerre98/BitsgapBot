@@ -1,0 +1,12 @@
+{
+    "pair": [
+        {
+            "id": "01",
+            "name": "ada/busd"
+        },
+        {
+            "id": "02",
+            "name": "cardano/busd"
+        }
+    ]
+}
